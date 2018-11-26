@@ -8,7 +8,7 @@ Python library to retrieve information from [UnderLX](https://github.com/underlx
 
 ## Changelog
 
-1.0.0 First Version
+1.0.1 First Version
 
 ## Credits
 Values are obtained from [UnderLX](https://github.com/underlx/disturbancesmlx)

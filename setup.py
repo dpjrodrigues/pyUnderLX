@@ -5,7 +5,7 @@ long_description = open('README.md').read()
 
 setup(
     name='pyUnderLX',
-    version='1.0.0',
+    version='1.0.1',
     license='MIT License',
     url='https://github.com/dpjrodrigues/pyUnderLX',
     author='Diogo Rodrigues',
