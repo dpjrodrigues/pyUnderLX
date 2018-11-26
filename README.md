@@ -1,4 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/pyipma.svg)](https://badge.fury.io/py/pyipma)
+[![PyPI version](https://badge.fury.io/py/pyUnderLX.svg)](https://badge.fury.io/py/pyUnderLX)
 
 # pyUnderLX
 Python library to retrieve information from [UnderLX](https://github.com/underlx/disturbancesmlx)
