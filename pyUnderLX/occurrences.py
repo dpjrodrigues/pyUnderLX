@@ -23,6 +23,13 @@ class Occurrences:
         
         return self
 
+    async def ongoing(self):
+        """Retrieve ongoing occurences."""
+
+        self.occurrences = await self.api.ongoing()
+
+        return self.occurrences
+    
     async def split_per_metroLine(self):
         """function to split the occurrences by Metroline."""
         _occurrence_MetroLine_list = []
